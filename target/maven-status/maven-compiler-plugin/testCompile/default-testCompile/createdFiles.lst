@@ -1,8 +1,8 @@
-utilities/Driver.class
 stepdefinitions/Hooks.class
-runners/Runner.class
 pages/Team7Page.class
-stepdefinitions/SellerStepDefinations.class
 stepdefinitions/TeamStepDefinitions.class
+utilities/Driver.class
+runners/Runner.class
+stepdefinitions/SellerStepDefinations.class
 utilities/ConfigReader.class
 pages/SellerPage.class

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="29.599">
-<testcase classname="US101 user should join seller page" name="TC101 user should join as a seller" time="6.789">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="26.965">
+<testcase classname="US101 user should join seller page" name="TC101 user should join as a seller" time="7.838">
 <system-out><![CDATA[Given user on the homepage..................................................passed
 When user clicks seller join now button.....................................passed
 And user clicks agent seller button.........................................passed
@@ -18,7 +18,7 @@ And user enters password1 "1234567".........................................pass
 Then user clicks registiration..............................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="US100 join in  page" name="TC100 user should join now to page" time="6.3">
+<testcase classname="US100 join in  page" name="TC100 user should join now to page" time="5.522">
 <system-out><![CDATA[Given user on the homepage..................................................passed
 And user clicks join in button..............................................passed
 When user enters email "yalc333123412@gmail.com"............................passed
@@ -29,7 +29,7 @@ And user enters re_password "tekir123"......................................pass
 And user clicks Signup button...............................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="US100 join in  page" name="TC100 user should join now to page 2" time="10.436">
+<testcase classname="US100 join in  page" name="TC100 user should join now to page 2" time="6.614">
 <system-out><![CDATA[Given user on the homepage..................................................passed
 And user clicks join in button..............................................passed
 When user enters email "emily123123412@gmail.com"...........................passed
@@ -40,7 +40,7 @@ And user enters re_password "emily1234".....................................pass
 And user clicks Signup button...............................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="US100 join in  page" name="TC100 user should join now to page 3" time="5.949">
+<testcase classname="US100 join in  page" name="TC100 user should join now to page 3" time="6.815">
 <system-out><![CDATA[Given user on the homepage..................................................passed
 And user clicks join in button..............................................passed
 When user enters email "nizam12123412@gmail.com"............................passed

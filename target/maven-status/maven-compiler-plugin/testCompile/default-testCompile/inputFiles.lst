@@ -1,3 +1,4 @@
+/Users/eminebatar/IdeaProjects/Team7.com/src/test/java/pages/CompanySellerPage.java
 /Users/eminebatar/IdeaProjects/Team7.com/src/test/java/utilities/Driver.java
 /Users/eminebatar/IdeaProjects/Team7.com/src/test/java/runners/Runner.java
 /Users/eminebatar/IdeaProjects/Team7.com/src/test/java/stepdefinitions/SellerStepDefinations.java
@@ -5,4 +6,5 @@
 /Users/eminebatar/IdeaProjects/Team7.com/src/test/java/stepdefinitions/TeamStepDefinitions.java
 /Users/eminebatar/IdeaProjects/Team7.com/src/test/java/pages/Team7Page.java
 /Users/eminebatar/IdeaProjects/Team7.com/src/test/java/utilities/ConfigReader.java
+/Users/eminebatar/IdeaProjects/Team7.com/src/test/java/stepdefinitions/CompanySellerStepDefinitions.java
 /Users/eminebatar/IdeaProjects/Team7.com/src/test/java/stepdefinitions/Hooks.java
